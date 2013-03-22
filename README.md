@@ -9,6 +9,9 @@
 ## Usage
 
 ``` java
+//change your key and secreat key
+private static final String API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; //$NON-NLS-1$
+public static final String API_SEC = "xxxxxxxxxxxxx"; //$NON-NLS-1$
 
 View.OnClickListener mFlickrClickListener = new View.OnClickListener() {
 
